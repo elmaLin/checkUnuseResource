@@ -3,6 +3,6 @@
 放在对应工程目录，用python3运行即可，iOS运行unused-image.py，安卓运行unused-image_forAndroid.py
 效果如下：
 iOS
-![image](https://github.com/elmaLin/checkUnuseResource/ios.png) 
+![image](https://github.com/elmaLin/checkUnuseResource/blob/master/ios.png) 
 安卓
-![image](https://github.com/elmaLin/checkUnuseResource/android.png ) 
+![image](https://github.com/elmaLin/checkUnuseResource/blob/master/android.png ) 
